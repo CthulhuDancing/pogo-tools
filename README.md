@@ -1,5 +1,7 @@
 # Pokémon GO Toolkit
 
+[Download plugin ZIP](https://github.com/CthulhuDancing/pogo-tools/releases/latest/download/pokemon-go-toolkit.zip)
+
 A plugin that helps your AI assistant answer Pokémon GO questions with sourced data, deterministic calculations, Showcase analysis, and current event planning.
 
 - Look up Pokémon, forms, evolutions, moves, and PvP or raid information.
