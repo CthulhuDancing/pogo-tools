@@ -4,7 +4,7 @@
     {
       "name": "pokemon-go-toolkit",
       "source": "./plugins/pokemon-go-toolkit",
-      "description": "Look up Pokémon GO data, calculate CP, PvP IV ranks and power-up costs, and compare Pokémon sizes and Showcase potential."
+      "description": "Look up Pokémon GO data, calculate CP and PvP IV ranks, compare Showcase potential, and plan around current events and bonuses."
     }
   ],
   "owner": {

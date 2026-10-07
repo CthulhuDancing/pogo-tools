@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "pokemon-go-toolkit",
-  "version": "0.3.1",
-  "description": "Look up Pokémon GO data, calculate CP, PvP IV ranks and power-up costs, and compare Pokémon sizes and Showcase potential.",
+  "version": "0.4.0",
+  "description": "Look up Pokémon GO data, calculate CP and PvP IV ranks, compare Showcase potential, and plan around current events and bonuses.",
   "author": {
     "name": "CthulhuDancing"
   },
@@ -10,8 +10,8 @@
     "com.openai": {
       "interface": {
         "displayName": "Pokémon GO Toolkit",
-        "shortDescription": "Pokémon GO data & calculations",
-        "longDescription": "Find sourced information about Pokémon, forms, moves, PvP, and raids. Calculate CP, stats, league limits, IV ranks, and power-up costs. Use the Showcase skill to compare sizes, estimate scores, and help decide which Pokémon to keep.",
+        "shortDescription": "Pokémon GO data, calculations & events",
+        "longDescription": "Find sourced information about Pokémon, forms, moves, PvP, raids, and current events. Calculate CP, stats, league limits, IV ranks, and power-up costs. Compare sizes and Showcase potential, and produce concise event-planning briefs with actionable preparation and month-ahead warnings.",
         "developerName": "CthulhuDancing",
         "category": "Productivity",
         "capabilities": [
@@ -20,7 +20,8 @@
         "defaultPrompt": [
           "Calculate the league endpoint and IV rank for this Pokémon.",
           "Compare the power-up costs for these Pokémon builds.",
-          "Use exact calculations to answer this incomplete Pokémon GO question."
+          "Evaluate this Pokémon for Showcase potential.",
+          "Give me a concise Pokémon GO event plan for the coming week."
         ]
       }
     }
