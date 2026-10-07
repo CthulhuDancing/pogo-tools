@@ -1,7 +1,7 @@
 {
   "interface": {
     "displayName": "Pokémon GO Toolkit",
-    "shortDescription": "Pokémon GO data, calculations & events",
+    "shortDescription": "Pokémon GO planning & tools",
     "longDescription": "Find sourced information about Pokémon, forms, moves, PvP, raids, and current events. Calculate CP, stats, league limits, IV ranks, and power-up costs. Compare sizes and Showcase potential, and produce concise event-planning briefs with actionable preparation and month-ahead warnings.",
     "developerName": "CthulhuDancing",
     "category": "Productivity",
@@ -10,7 +10,6 @@
     ],
     "defaultPrompt": [
       "Calculate the league endpoint and IV rank for this Pokémon.",
-      "Compare the power-up costs for these Pokémon builds.",
       "Evaluate this Pokémon for Showcase potential.",
       "Give me a concise Pokémon GO event plan for the coming week."
     ]
